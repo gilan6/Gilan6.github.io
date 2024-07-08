@@ -2,7 +2,7 @@
 layout: post
 title: My 1st post
 subtitle: This is my 1st post
-cover-img: /assets/img/gilan_rasterized.png
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/gilan_rasterized.png
 share-img: /assets/img/path.jpg
 tags: [Trial]
