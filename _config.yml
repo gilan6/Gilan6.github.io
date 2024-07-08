@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Gilan (Gil Ilan Haham)'s 1st webpage in this millennium
+title: "Gilan (Gil Ilan Haham)'s 1st webpage in this millenium"
 
 # Your name to show in the footer
 author: Gilan
@@ -24,6 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Phase retrieval: "https://en.wikipedia.org/wiki/Phase_retrieval"
   Author's home: "https://deanattali.com"
 
 ################
@@ -51,13 +52,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "Gilan6@Gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: None
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: None
   github: Gilan6
-  twitter: None
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # twitter: None
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -85,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -94,7 +95,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
