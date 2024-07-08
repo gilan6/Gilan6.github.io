@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Physicist with interests in Applicative Electro-optics and algorithms.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gil Ilan Haham,. Ilan Haham being my surname. I live in my hometown of Haifa, Israel.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm currently:
 
-What else do you need?
+- Working on publishing an interesting paper about Lensless-Microscopy and finishing my PhD in Physics
+- Advising and R&D for several interesting projects 😀.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Further info will be put here if I feel like updating this site in the future.
+You can contact me on [my gmail](Gilan6@gmail.com)
