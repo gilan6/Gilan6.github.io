@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Jekyll Author's home: "https://deanattali.com"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -51,16 +51,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "Gilan6@Gmail.com"
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: deanattali
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: None
   github: Gilan6
-  twitter: daattali
+  twitter: None
   patreon: DeanAttali
   youtube: "@daattali"
-  # whatsapp: 15551212
+  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
- linkedin: gil-ilan-haham-29704b226
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,8 +93,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
   vk: false
 
@@ -300,4 +300,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
