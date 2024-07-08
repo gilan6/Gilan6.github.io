@@ -12,4 +12,4 @@ I'm currently:
 - Advising and R&D for several interesting projects 😀.
 
 Further info will be put here if I feel like updating this site in the future.
-You can contact me on [[my gmail]](mailto:Gilan6@gmail.com)
+You can contact me on [my gmail](mailto:Gilan6@gmail.com)
